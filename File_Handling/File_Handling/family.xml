@@ -1,0 +1,17 @@
+<YarMuhammad tag='dada'>
+  <Riaz child='1'>
+    <child1 sibling='1'>Tayyab</child1>
+    <child2 sibling='2'>Ali Haider</child2>
+    <child3 sibling='3'>Abu Bakr</child3>
+  </Riaz>
+  <Ramzan child='2'>
+    <child1 sibling='1'>Fatima</child1>
+    <child2 sibling='2'>Muzammil</child2>
+    <child3 sibling='3'>Mudasir</child3>
+  </Ramzan>
+  <Nizam child='3'>
+    <child1 sibling='1'>Asif</child1>
+    <child2 sibling='2'>Rimsha</child2>
+    <child3 sibling='3'>Kashif</child3>
+  </Nizam>
+</YarMuhammad>

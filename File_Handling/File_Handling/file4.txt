@@ -1,0 +1,1 @@
+{'name': 'Mubashir Shahzad', 'sex': 'Prefer not to say', 'age': 27, 'address': 'PMA Kakul, Abbottabad', 'phone': '03331234567', 'email': 'contact@outllok.com', 'Per Night Charges': 5000}
